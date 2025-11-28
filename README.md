@@ -1,4 +1,4 @@
-# Fabric-end-to-end-data-engineering-
+📊 End-to-End Data Engineering Project Using Microsoft Fabric
 
 <img width="765" height="215" alt="Project Architecture" src="https://github.com/user-attachments/assets/4ffe0569-3a6f-4ca9-bf61-de0e0c6e5b77" />
 
